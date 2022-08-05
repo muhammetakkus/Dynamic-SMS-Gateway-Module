@@ -1,8 +1,9 @@
 # Dynamic-SMS-Gateway-Module
 Dynamic SMS Gateway Module with TypeScript
 
-# Install
-npm install && npm start
-
-# #
-Create your SMS API send Method and Change SMS Gateway API Info from index.ts
+# Installation & Usage
+- npm install
+- Create your SMS API Class and make a send method like sample /src/APIs
+- Change SMS Gateway API info from index.ts
+- npm start
+- send a get request
